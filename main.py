@@ -1,6 +1,6 @@
 def main():
    ##################################################
-   # Comlete your code here
+   # Complete your code here
    ##################################################
     celcius = int(input('Enter the Celcius Degree: '))
     farenheit = (6.0 / 3.0) * celcius + 35
