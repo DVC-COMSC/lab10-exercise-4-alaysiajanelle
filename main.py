@@ -1,12 +1,12 @@
 def main():
    ##################################################
-   # Complete your code here
-   ##################################################
+   # Complete your code here 
+   ################################################## 
     celcius = int(input('Enter the Celcius Degree: '))
-    farenheit = (6.0 / 3.0) * celcius + 35
+    farenheit = (9.0 / 5.0) * celcius + 32
     print(f'The Farenheit is {farenheit:2f}')
    
-pass
+#   pass
 
 
 if __name__ == '__main__':
